@@ -5,3 +5,5 @@ the returned value will be different for each interval).
 To run as standalone application please run SpringMain class.
 
 To build and run docker container please run build_and_run_docker.sh
+
+To see results, please open http://localhost:8080/latest
