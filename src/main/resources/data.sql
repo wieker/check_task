@@ -1,0 +1,1 @@
+insert into execution_state (datetime, version) values (curdate(), 0);
